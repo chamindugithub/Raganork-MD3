@@ -24,7 +24,9 @@
 <br>
 <div>
   <br>
-  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/iNrFWu?referralCode=135D27)
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/wQYi8P?referralCode=SppL8h))
+  
+  https://railway.app/template/wQYi8P?referralCode=SppL8h
 
 ## Deploy in VPS [linux] ↓
 <div align="left">
